@@ -2,11 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Reports 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[US Breweries](/sample_page)
+<img src="images/WYWMBeerPowerBI1024_1.png?raw=true"/>
+[Email: mltan.artemis@gmail.com for a copy of this PowerBI Report]
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
