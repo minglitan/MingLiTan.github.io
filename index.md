@@ -7,9 +7,11 @@
 [US Breweries](/sample_page)
 <img src="images/WYWMBeerPowerBI1024_1.png?raw=true"/>
 [Email: mltan.artemis@gmail.com for a copy of this PowerBI Report]
+
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Kickstarter Projects Analysis](/pdf/sample_presentation.pdf)
+<img src="images/KickStartProj.PNG?raw=true"/>
+[Link: https://public.tableau.com/views/KickstarterProjectsAnalysis_16744545936770/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link]
 
 ---
 [Project 3 Title](http://example.com/)
