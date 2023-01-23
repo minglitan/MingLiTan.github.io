@@ -9,7 +9,7 @@
 [Email: mltan.artemis@gmail.com for a copy of this PowerBI Report]
 
 ---
-[Kickstarter Projects Analysis](/pdf/sample_presentation.pdf)
+[Kickstarter Projects Analysis](/sample_page)
 <img src="images/KickStartProj.PNG?raw=true"/>
 [Link: https://public.tableau.com/views/KickstarterProjectsAnalysis_16744545936770/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link]
 
