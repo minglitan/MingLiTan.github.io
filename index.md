@@ -12,7 +12,7 @@
 # Kickstarter Projects Analysis
 
 <img src="images/KickStartProj.PNG?raw=true"/>
-[Link: https://public.tableau.com/views/KickstarterProjectsAnalysis_16744545936770/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link]
+[Link: https://public.tableau.com/app/profile/ml8029/viz/KickstarterProjectsAnalysis_16744545936770/Dashboard1]
 
 ---
 [Project 3 Title]
