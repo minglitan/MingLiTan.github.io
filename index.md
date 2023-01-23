@@ -4,12 +4,12 @@
 
 ### Reports 
 
-[US Breweries]
+# US Breweries
 <img src="images/WYWMBeerPowerBI1024_1.png?raw=true"/>
 [Email: mltan.artemis@gmail.com for a copy of this PowerBI Report]
 
 ---
-[Kickstarter Projects Analysis]
+# Kickstarter Projects Analysis
 
 <img src="images/KickStartProj.PNG?raw=true"/>
 [Link: https://public.tableau.com/views/KickstarterProjectsAnalysis_16744545936770/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link]
