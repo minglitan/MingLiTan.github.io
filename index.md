@@ -1,15 +1,15 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Reports 
+## Reports 
 
-# US Breweries
+### US Breweries
 <img src="images/WYWMBeerPowerBI1024_1.png?raw=true"/>
 [Email: mltan.artemis@gmail.com for a copy of this PowerBI Report]
 
 ---
-# Kickstarter Projects Analysis
+### Kickstarter Projects Analysis
 
 <img src="images/KickStartProj.PNG?raw=true"/>
 [Link: https://public.tableau.com/app/profile/ml8029/viz/KickstarterProjectsAnalysis_16744545936770/Dashboard1]
