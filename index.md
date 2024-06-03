@@ -1,15 +1,21 @@
 # Portfolio
+---
+## Bibliometric Analysis
+### Medical Tourism Keyword Analysis - VOSViewer
+<img src="images/MedicalTourismVOSviewer.png?raw=true"/>
+[Data source: Scopus database]
+[Email: mltan.artemis@gmail.com for a copy of this interactive visual]
 
 ---
 
 ## Reports 
 
-### US Breweries
+### US Breweries - PowerBI
 <img src="images/WYWMBeerPowerBI1024_1.png?raw=true"/>
-[Email: mltan.artemis@gmail.com for a copy of this PowerBI Report]
+[Email: mltan.artemis@gmail.com for a copy of this interactive PowerBI Report]
 
 ---
-### Kickstarter Projects Analysis
+### Kickstarter Projects Analysis - Tableau
 
 <img src="images/KickStartProj.PNG?raw=true"/>
 [Link: https://public.tableau.com/app/profile/ml8029/viz/KickstarterProjectsAnalysis_16744545936770/Dashboard1]
