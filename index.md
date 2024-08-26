@@ -2,8 +2,8 @@
 ---
 ### Australian Research Council (ARC) Grant Analysis - Power BI
 
-<img src="images/WYWMCapstone1.png?raw=true"/>
-<img src="images/WYWMCapstone2.png?raw=true"/>
+<img src="images/WYWMCapstone1.PNG?raw=true"/>
+<img src="images/WYWMCapstone2.PNG?raw=true"/>
 
 [Email: mltan.artemis@gmail.com for a copy of this interactive PowerBI Report]
 
